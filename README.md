@@ -1,4 +1,7 @@
 # Project Name
+
 MCD-Use-Cases
+
 ## Description
-Data Conception Model of a website's database.
+
+Data Conception Model for a to set up a website database frm scratch.
